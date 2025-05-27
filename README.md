@@ -48,7 +48,7 @@
    * [OpenVPN](https://openvpn.net/community-downloads/)
    * [Xray-core](https://github.com/XTLS/Xray-core)
    * [WireGuard Tools](https://www.wireguard.com/install/)
-4. **Run** `SentinelVPN.exe` as Administrator.
+4. **Run** `SentinelVPN.exe` as Administrator. Path: `\SentinelVPN\bin\Debug`
 5. **Configure** your VPN server details and selective routing options in the application interface.
 
 ---
