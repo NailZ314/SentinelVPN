@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\classes\\vpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\classes\\vpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\classes\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\classes\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\classes\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\classes\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\downloads\\simplevpn-1.3.5\\simple_vpn\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\simple_vpn\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|Simple_VPN\\Simple_VPN.csproj|solutionrelative:simple_vpn\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\App.config",
+              "RelativeDocumentMoniker": "Simple_VPN\\App.config",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\App.config",
+              "RelativeToolTip": "Simple_VPN\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-12T20:47:14.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Simple_VPN\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:31:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Classes\\Server.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Classes\\Server.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Classes\\Server.cs",
+              "RelativeToolTip": "Simple_VPN\\Classes\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:25:50.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Classes\\Status.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Classes\\Status.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Classes\\Status.cs",
+              "RelativeToolTip": "Simple_VPN\\Classes\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:12:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VPN.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Classes\\VPN.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Classes\\VPN.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Classes\\VPN.cs",
+              "RelativeToolTip": "Simple_VPN\\Classes\\VPN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:25:51.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Simple_VPN\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:31:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Program.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Program.cs",
+              "RelativeToolTip": "Simple_VPN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:30:46.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Simple_VPN\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:22:39.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Dashboard.cs",
+              "RelativeToolTip": "Simple_VPN\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:27:12.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Information.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Information.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Information.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Information.cs [Design]",
+              "RelativeToolTip": "Simple_VPN\\Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:32:43.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Information.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Information.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Information.cs",
+              "RelativeToolTip": "Simple_VPN\\Information.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:32:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Simple_VPN\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\Settings.settings",
+              "RelativeToolTip": "Simple_VPN\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-03-13T00:49:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Simple_VPN\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Properties\\Resources.resx",
+              "RelativeToolTip": "Simple_VPN\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-13T00:44:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Information.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Information.Designer.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Information.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Information.Designer.cs",
+              "RelativeToolTip": "Simple_VPN\\Information.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:22:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\packages.config",
+              "RelativeDocumentMoniker": "Simple_VPN\\packages.config",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\packages.config",
+              "RelativeToolTip": "Simple_VPN\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-12T20:30:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Simple_VPN\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Downloads\\SimpleVPN-1.3.5\\Simple_VPN\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Simple_VPN\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:27:55.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "log": {
+    "loglevel": "info"
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 1080,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nailz314.duckdns.org",
+            "port": 443,
+            "users": [
+              {
+                "id": "36fb456f-868b-45f5-8208-a7b0d4061c67",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "nailz314.duckdns.org",
+          "allowInsecure": false
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SentinelVPN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|c:\\sentinelvpn\\sentinelvpn\\classes\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\vpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\vpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|c:\\sentinelvpn\\sentinelvpn\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\openvpnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\openvpnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\tun2socksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\tun2socksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\vlesstunnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\vlesstunnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\wireguardtunnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\wireguardtunnelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SentinelVPN||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\routehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\routehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\verifycodeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\verifycodeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\verifycodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\verifycodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\classes\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\classes\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|C:\\SentinelVPN\\sentinelvpn\\forms\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4095CE4E-D89F-4FAD-BB71-A38C01206978}|SentinelVPN\\SentinelVPN.csproj|solutionrelative:sentinelvpn\\forms\\paymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SentinelVPN",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\SentinelVPN.csproj",
+              "RelativeDocumentMoniker": "SentinelVPN\\SentinelVPN.csproj",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\SentinelVPN.csproj",
+              "RelativeToolTip": "SentinelVPN\\SentinelVPN.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T23:57:20.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VPN.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\VPN.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\VPN.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\VPN.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\VPN.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:40:02.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Dashboard.Designer.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:04:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WireGuardTunnelManager.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\WireGuardTunnelManager.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\WireGuardTunnelManager.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\WireGuardTunnelManager.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\WireGuardTunnelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:03:15.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteHelper.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\RouteHelper.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\RouteHelper.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\RouteHelper.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\RouteHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:14:02.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\Dashboard.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Dashboard.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\Dashboard.cs",
+              "ViewState": "AgIAAN4BAAAAAAAAAIA6wP8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:04:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenVpnManager.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\OpenVpnManager.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\OpenVpnManager.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\OpenVpnManager.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\OpenVpnManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:03:41.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tun2SocksManager.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\Tun2SocksManager.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\Tun2SocksManager.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\Tun2SocksManager.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\Tun2SocksManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:03:33.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VlessTunnelManager.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\VlessTunnelManager.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\VlessTunnelManager.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\VlessTunnelManager.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\VlessTunnelManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:03:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\Status.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\Status.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\Status.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\Status.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:34:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\Server.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\Server.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\Server.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\Server.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:54:42.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Information.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\Information.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Information.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\Information.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwJ4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:19:18.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Dashboard.resx",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\Dashboard.resx",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Dashboard.resx",
+              "RelativeToolTip": "SentinelVPN\\Forms\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-25T23:40:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\RegistrationForm.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\RegistrationForm.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\RegistrationForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwFcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:33:09.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyCodeForm.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\VerifyCodeForm.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\VerifyCodeForm.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\VerifyCodeForm.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\VerifyCodeForm.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:31:34.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:27:56.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserStore.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Classes\\UserStore.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Classes\\UserStore.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Classes\\UserStore.cs",
+              "RelativeToolTip": "SentinelVPN\\Classes\\UserStore.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:21:16.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\LoginForm.resx",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\LoginForm.resx",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\LoginForm.resx",
+              "RelativeToolTip": "SentinelVPN\\Forms\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-25T23:24:11.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerifyCodeForm.Designer.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\VerifyCodeForm.Designer.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\VerifyCodeForm.Designer.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\VerifyCodeForm.Designer.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\VerifyCodeForm.Designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwE0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:14:19.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\RegistrationForm.Designer.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\RegistrationForm.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwCQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:14:11.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentForm.Designer.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\PaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\PaymentForm.Designer.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\PaymentForm.Designer.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\PaymentForm.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:13:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:12:56.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Information.Designer.cs",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Information.Designer.cs",
+              "RelativeDocumentMoniker": "SentinelVPN\\Forms\\Information.Designer.cs",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Forms\\Information.Designer.cs",
+              "RelativeToolTip": "SentinelVPN\\Forms\\Information.Designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAASwPkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:12:06.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\SentinelVPN\\SentinelVPN\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SentinelVPN\\Properties\\Resources.resx",
+              "ToolTip": "C:\\SentinelVPN\\SentinelVPN\\Properties\\Resources.resx",
+              "RelativeToolTip": "SentinelVPN\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-25T23:04:53.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

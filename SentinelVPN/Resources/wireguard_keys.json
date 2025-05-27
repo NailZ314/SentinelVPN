@@ -1,0 +1,14 @@
+{
+  "Frankfurt (DE)": {
+    "PublicKey": "ZqeWm/PhfhJZmpaZ9OylqBui0G4PmZpKyrdh/bRxKgE=",
+    "Port": 51820
+  },
+  "London (UK)": {
+    "PublicKey": "gYrz9XRHXlNrHe1/c9NaQCxAT/L0/BYdnuwHT9Ui+00=",
+    "Port": 51820
+  },
+  "Stockholm (SE)": {
+    "PublicKey": "p5DzpCIEv00lHOn67WYpCv2Jfea5ExFEi9BNT5GWbQM=",
+    "Port": 51820
+  }
+}
